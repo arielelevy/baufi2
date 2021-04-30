@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c5795e43-cfe5-4518-b100-79716f68fe8f/resourceGroups/ariel_group2/providers/Microsoft.Web/sites/baufiv2"
+}

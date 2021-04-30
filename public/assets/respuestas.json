@@ -1,0 +1,30 @@
+{
+    "es":{
+        "buenDia":"Hola! En qué te puedo ayudar?",
+        "despedida":"Hasta luego, espero haberlo ayudado",
+        "rechazoConsulta":"La consulta realizada no se puede responder en estos momentos, intente mas tarde",
+        "cotizacion":"El precio del %s %s es: %s ",
+        "vendedor":"y vendedor: %s",
+        "faltaMoneda":"En este momento no tengo la cotización de esa moneda",
+        "consultaMoneda":"¿De que moneda querés saber la cotizacion?",
+        "cotizacionCaida":"En estos momentos no podemos consultar la cotizacion, por favor intete mas tarde",
+        "solicitudRegistro":"Primero, logueate con tu cuenta de Baufest: \n\n%s",
+        "tokenExpirado":"Su sesion a expirado, vuelva a loguearse con su cuenta de Baufest: \n\n%s",
+        "confirmacionRegistro":"Genial, ya estás logueado",
+        "confirmacionSala":"Ya te reservé la sala",
+        "reintentoSala":"Qué numero de sala querés reservar?",
+        "salasDisponibles":"Las salas que tengo son:\n",
+        "noSalasDisponibles":"No hay salas disponibles en este dia y horario, pruebe con uno diferente",
+        "consultarFecha":"En que horario querés reservar la sala?",
+        "consultarDuracion":"Cuánto tiempo vas a usar la sala?",
+        "salirReserva":"Salir de la reserva de salas",
+        "rechazoSala":"La sala no pudo ser reservada por favor comience de nuevo",
+        "eventosSemana":"Los eventos de esta semana son:\n",
+        "evento":"El %s %s a las %s al %s %s a las %s\n *%s* \n\n",
+        "salirCancelacion":"Salir de la cancelacion de eventos",
+        "confirmacionCancelacion":"El evento ha sido cancelado",
+        "noEventosDisponibles":"No hay eventos durante esta semana",
+        "rechazoCancelacion":"No se ha cancelado ningun evento",
+        "dias":["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"]
+    }
+}

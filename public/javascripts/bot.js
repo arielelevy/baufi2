@@ -1,8 +1,7 @@
 require('isomorphic-fetch');
 const {Wit} = require('node-wit');
 const format = require('util').format;
-
-const witToken = 'DNYTZX4EX5WF7ZVMRAZRCMXJ52LCMDUE';
+const witToken = process.env.WIT_AI_TOKEN;
 
 const authHelper = require('./authHelper.js');
 const CalendarioHelper = require('./calendarioHelper.js');
